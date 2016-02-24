@@ -1,0 +1,77 @@
+/*Header*/
+#header{
+	background-color: black;
+	opacity: 0.8;
+	color: white;
+	height:70px;
+}
+#header a{
+	padding: 2%;
+	color: white;
+}
+.btn-read-more{
+	background-color: gray;
+	border-radius: 10px;
+	width: 150px;
+	padding:2%;
+}
+#principal p{
+	text-align: justify;
+	line-height: 1.5;
+}
+/*Linea divisoria*/
+.division{
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+/*Latest Projects*/
+#latest-projects a{
+	color: black;
+	padding-right: 2%;
+	margin-top: 10px;
+}
+#latest-projects img{
+	width: 100%;
+}
+.btn-load-more{
+	background-color: gray;
+	border-radius: 10px;
+	width: 150px;
+	padding:1%;
+	margin:2% auto;
+}
+.btn-follow{
+	background-color: gray;
+	border-radius: 10px;
+	width: 100px;
+	color: white;
+}
+
+.size-twitter{
+	max-width: 100px;
+}
+.size-comillas{
+	max-width: 20px;
+}
+
+/*footer*/
+#footer{
+	background-color: black;
+	opacity: 0.8;
+}
+.recta{
+	height: 1px;
+	border-style: solid gray;
+}
+.btn-follow-red{
+	background-color: #DF013A;
+	width: 90px;
+	border-radius: 10px;
+	text-align: center;
+}
+.caja-send{
+	background-color: gray;
+	padding: 2% 5%;
+	border-radius: 10px;
+}
